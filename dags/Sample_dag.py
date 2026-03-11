@@ -17,4 +17,3 @@ with DAG(
         python_callable=hello_world
     )
 
-task1
